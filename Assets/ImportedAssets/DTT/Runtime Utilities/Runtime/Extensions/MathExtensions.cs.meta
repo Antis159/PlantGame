@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 190c81d5d657df24daed40a9e917e6f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/Runtime/Extensions/MathExtensions.cs
+  uploadId: 865614

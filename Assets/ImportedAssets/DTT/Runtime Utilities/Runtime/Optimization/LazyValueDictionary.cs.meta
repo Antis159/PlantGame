@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 47cef90829ab1f44b8f109fa78b63567
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/Runtime/Optimization/LazyValueDictionary.cs
+  uploadId: 865614

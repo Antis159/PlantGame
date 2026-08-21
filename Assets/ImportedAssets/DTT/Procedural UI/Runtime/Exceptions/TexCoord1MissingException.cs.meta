@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 212af265621880147a6ceb2bc64cb766
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Procedural UI/Runtime/Exceptions/TexCoord1MissingException.cs
+  uploadId: 865614

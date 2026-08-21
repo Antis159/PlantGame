@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66fbc94768474e44aa17c077a2c138fd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-LICENSE.txt
+  uploadId: 865614

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14531258fc37ae6409c3c3d585413ae8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Publishing Tools/Editor/GUI/DTTGUISkin.guiskin
+  uploadId: 865614

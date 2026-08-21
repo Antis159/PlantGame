@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8b15a9a1d32d0041a9e4bf23c6d22a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/Runtime/Workflow/Unguaranteed.cs
+  uploadId: 865614

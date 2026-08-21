@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6bd69077b9eb0444b7cbd351f7cf177
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Editor Utilities/Editor/GUI/EditorAnimationExtensions.cs
+  uploadId: 865614

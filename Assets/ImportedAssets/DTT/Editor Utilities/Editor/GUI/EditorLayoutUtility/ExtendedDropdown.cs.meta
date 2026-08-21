@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 84ef962d2c5f1974cb86677dd2d23019
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ExtendedDropdown.cs
+  uploadId: 865614

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1711cb30f577ba1498364a78a6873853
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/Runtime/DTT.RuntimeUtilities.Runtime.asmdef
+  uploadId: 865614

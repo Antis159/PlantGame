@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ca909a99cdb1454d947e4e3c39a701d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Procedural UI/Tests/Runtime/DTT.ProceduralUI.Tests.asmdef
+  uploadId: 865614

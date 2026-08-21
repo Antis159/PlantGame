@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44624b4b3f8ed4c47832cf88c4d3be8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/Demo/Scripts/StringBehaviour.cs
+  uploadId: 865614

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed9a27d790cdf2348a1b2cc720d72199
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Editor Utilities/Demo/Scenes/Demo.unity
+  uploadId: 865614

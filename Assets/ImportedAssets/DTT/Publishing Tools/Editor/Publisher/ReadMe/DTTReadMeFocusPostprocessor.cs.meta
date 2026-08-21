@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1a172b04d3ed95b45b1633cd9db79261
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMeFocusPostprocessor.cs
+  uploadId: 865614

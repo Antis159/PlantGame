@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97d53ed0185d10d4a974cf6752ae3ffe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ContextDropdown.cs
+  uploadId: 865614

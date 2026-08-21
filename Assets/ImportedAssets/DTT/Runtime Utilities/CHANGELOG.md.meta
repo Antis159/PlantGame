@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58664f80b95d58f4eaee01c57465f369
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/CHANGELOG.md
+  uploadId: 865614

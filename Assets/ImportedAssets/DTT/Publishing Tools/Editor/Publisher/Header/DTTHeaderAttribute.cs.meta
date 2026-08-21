@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6fc1b018de8aad54aa13e932008a3a73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderAttribute.cs
+  uploadId: 865614

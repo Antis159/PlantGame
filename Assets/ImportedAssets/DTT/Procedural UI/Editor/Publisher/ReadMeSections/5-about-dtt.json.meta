@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 420cb95b1d54a804c82f77d5bbcf784c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Procedural UI/Editor/Publisher/ReadMeSections/5-about-dtt.json
+  uploadId: 865614

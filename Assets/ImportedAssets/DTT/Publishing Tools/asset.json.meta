@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cb3054f2cc71c949ae08c08798a690f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Publishing Tools/asset.json
+  uploadId: 865614

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6a12e1e013355540ab606f758b6c505
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Editor Utilities/Editor/DTT.EditorUtilities.Editor.asmdef
+  uploadId: 865614

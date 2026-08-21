@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5f56d054dfcb8934fbbe6ff55b2e45f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Publishing Tools/Editor/Publisher/DTTEditorWindow.cs
+  uploadId: 865614

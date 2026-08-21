@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc1ef4aa0c856db418cc88043f49c6a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/Runtime/Extensions/TypeExtensions.cs
+  uploadId: 865614

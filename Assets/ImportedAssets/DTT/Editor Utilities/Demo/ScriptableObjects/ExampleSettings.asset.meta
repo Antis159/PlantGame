@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ad95f51f78c403408414ba2fc16095b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Editor Utilities/Demo/ScriptableObjects/ExampleSettings.asset
+  uploadId: 865614

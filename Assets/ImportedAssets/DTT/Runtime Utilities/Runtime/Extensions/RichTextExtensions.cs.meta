@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 500763c68b83bb745a34782dc5d22e35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193375
+  packageName: Procedural UI
+  packageVersion: 7.0.8
+  assetPath: Assets/DTT/Runtime Utilities/Runtime/Extensions/RichTextExtensions.cs
+  uploadId: 865614
