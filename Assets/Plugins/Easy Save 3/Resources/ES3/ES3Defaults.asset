@@ -47,6 +47,7 @@ MonoBehaviour:
     - DTT.RuntimeUtilities.Runtime
     - PrimeTween.Debug
     - PrimeTween.Demo
+    - PrimeTween.Runtime
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
