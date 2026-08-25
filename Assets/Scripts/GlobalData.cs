@@ -7,6 +7,34 @@ using UnityEngine;
 public class GlobalData : MonoBehaviour
 {
     [Serializable]
+    public class KeyValuePairV2<Tkey, Tvalue>
+    {
+        public Tkey Key; 
+        public Tvalue Value;
+        public KeyValuePairV2( Tkey key, Tvalue value)
+        {
+            Key = key;
+            Value = value;
+        }
+    }    
+    [Serializable]
+    public class ListKvpV2<Tkey, Tvalue>
+    {
+        public List<KeyValuePairV2<Tkey, Tvalue>> kvpList;
+        public ListKvpV2()
+        {
+            kvpList = new List<KeyValuePairV2<Tkey, Tvalue>>();
+        }
+        public ListKvpV2(List<KeyValuePairV2<Tkey, Tvalue>> KvpList)
+        {
+            kvpList = KvpList;
+        }
+        public void Add(KeyValuePairV2<Tkey, Tvalue> kvpSingle)
+        {
+            kvpList.Add(kvpSingle);
+        }
+    }
+    [Serializable]
     public class KeyBinds
     {
         public KeyCode PlayerMoveForwards;
