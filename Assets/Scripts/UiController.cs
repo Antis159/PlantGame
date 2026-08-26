@@ -93,8 +93,8 @@ public class UiController : MonoBehaviour
         visibilityTween = Tween.UIAnchoredPositionY(visibilityButton_Kvp.Value, tSettings);
         isVisibleMainUi = !isVisibleMainUi;
 
-        // TODO: prob useless if Icon is 'X'
-        // This is maybe too caveman, works tho
+        // //TODO: prob useless if Icon is 'X'
+        // //This is maybe too caveman, works tho
         // var icon = visibilityButton_Kvp.Key.transform.LastChild();
         // var iconRot = icon.eulerAngles;
         // iconRot.z -= 180;
